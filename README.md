@@ -1,3 +1,15 @@
+# React Calculator
+
+A simple calculator built with **React**. This project was built as part of the [*FreeCodeCamp*](https://www.freecodecamp.org/learn/) Frontend Libraries Certification.
+
+### Technologies and tools used:
+
+- SASS/SCSS
+- React 
+- VSCode
+
+------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
